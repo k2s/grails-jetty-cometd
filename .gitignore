@@ -6,9 +6,6 @@
 .idea
 out/
 
-# web application files
-/web-app/WEB-INF
-
 # IDE support files
 /.classpath
 /.launch
